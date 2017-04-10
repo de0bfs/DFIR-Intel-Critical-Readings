@@ -1,2 +1,2 @@
-# DFIR-Intel-Critical-Readings
+#Cyber Intel & DFIR Must reads...
 Critical reading notes and books for Cyber Intelligence + Digital Forensics &amp; Incident Response (DFIR)
